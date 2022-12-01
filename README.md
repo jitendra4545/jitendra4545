@@ -1,3 +1,6 @@
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Finsights.dice.com%2F2022%2F05%2F17%2Fweb-developer-resume-templates-and-tips-for-writing-one%2F&psig=AOvVaw15PLdTXcSS6J8XT0aQGtJB&ust=1670003000323000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjqnI_82PsCFQAAAAAdAAAAABAJ](https://insights.dice.com/wp-content/uploads/2020/08/shutterstock_725263816.jpg)" />
+
+
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Ghadei</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -17,8 +20,11 @@
 - ⚡ Fun fact **I always keep smile in serious situations**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/jitendra-ghadei-01424a228/</h3>
+<br/>
+<br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitendra4545" alt="jitendra4545" /></a> </p>
-
+<br/>
+<br/>
 <p align="left">
 </p>
 
