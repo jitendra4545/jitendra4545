@@ -35,7 +35,7 @@
   <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
 </p>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendra4545&show_icons=true&locale=en&layout=compact" alt="jitendra4545" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitendra4545&show_icons=true&locale=en&layout=compact" alt="jitendra4545" /></p> -->
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendra4545&show_icons=true&locale=en" alt="jitendra4545" /></p>
 <br/>
