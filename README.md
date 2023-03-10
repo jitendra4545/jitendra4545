@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React. js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jitendra4545/jitendra4545.github.io](https://github.com/jitendra4545/jitendra4545.github.io)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/jitendra4545/)
 
 - 💬 Ask me about **React , Javascript , HTML ,CSS ,Chakra UI**
 
 - 📫 How to reach me **jitendra45.js45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iNwUQuC_PVgLBdaPtoDm5-mXL5VRd2Kf/view?usp=sharing](https://drive.google.com/file/d/1iNwUQuC_PVgLBdaPtoDm5-mXL5VRd2Kf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iNwUQuC_PVgLBdaPtoDm5-mXL5VRd2Kf/view?usp=sharing)
 
 - ⚡ Fun fact **I always keep smile in serious situations**
 
