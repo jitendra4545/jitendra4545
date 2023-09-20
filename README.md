@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jitendra45.js45@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iNwUQuC_PVgLBdaPtoDm5-mXL5VRd2Kf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10HaWmrBxRVbjl4eM2GM5vfVkTWkr5eR4/view?usp=sharing)
 
 - ⚡ Fun fact **I always keep smile in serious situations**
 
