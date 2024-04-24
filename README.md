@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jitendra Kumar Ghadei</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center"> A passionate MERN stack developer dedicated to crafting clean, efficient code and building innovative solutions. With a focus on React, Redux, Node JS, MongoDB, and Express,Tailwind CSS, I thrive on tackling complex challenges and turning ideas into reality through the power of technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jitendra4545&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra4545" /> </p>
 
@@ -18,6 +18,7 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10HaWmrBxRVbjl4eM2GM5vfVkTWkr5eR4/view?usp=sharing)
 
 - ⚡ Fun fact **I always keep smile .**
+-  Connect with me  [Linkedin](https://www.linkedin.com/in/jitendra-ghadei-01424a228)
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/jitendra-ghadei-01424a228/</h3>
 <br/>
