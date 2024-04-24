@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10HaWmrBxRVbjl4eM2GM5vfVkTWkr5eR4/view?usp=sharing)
 
-- ⚡ Fun fact **I always keep smile in serious situations**
+- ⚡ Fun fact **I always keep smile .**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/jitendra-ghadei-01424a228/</h3>
 <br/>
