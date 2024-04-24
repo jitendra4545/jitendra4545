@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/jitendra4545/)
 
-- 💬 Ask me about **React , Javascript , HTML ,CSS ,Chakra UI**
+- 💬 Ask me about **React, Javascript , HTML,CSS ,Chakra UI , Node JS , Express , MongoDB ,Redux**
 
 - 📫 How to reach me **jitendra45.js45@gmail.com**
 
